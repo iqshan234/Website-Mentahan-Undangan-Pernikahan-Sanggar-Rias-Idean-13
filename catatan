@@ -1,0 +1,271 @@
+<section id="s2" class="s2">
+        <div class="container text-center content-1 pb-5">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <h1 class="arab-web fw-bold text-utama" data-aos="fade-up">
+                        السَّلاَمُ عَلَيْكُمْ
+                        
+                        وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+                    </h1>
+
+                    <h5 class="mb-5 text-utama" data-aos="zoom-in" style="letter-spacing: 2px;line-height:30px; ">Dengan memohon rahmat dan ridho Allah Subhanahu wa ta'ala, Kami bermaksud menyelenggarakan pernikahan kami.</h5>
+                </div>
+            </div>
+
+
+            <div class="row justify-content-between">
+                <div class="col-md-5 mb-3 kartu-pasangan" style="visibility: visible; animation-name: zoomIn;">
+                    <div class="card h-100 border bg-utama" data-aos="fade-right" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+                        <div class="card-body text-center">
+                            <div class="mt-4">
+                                <h4 class="text-utama m-3 in-left">Fahmi Dzikri Arrija, S.Pd.</h4>
+                                <h5 class="text-utama mb-5" style="letter-spacing: 4px;line-height:25px; color: #8B0000; font-family: ">Anak Kedua dari<br> Bapak Sutisna<br> Dan Masturoh</h5>
+                                <div class="medos-pasangan">
+                                    <a href="https://instagram.com/alfadzikra09" class="btn-medsos" target="_blank">
+                                        <i class="fa-brands fa-instagram"></i> Fahmi</a>        
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-1 text-center text-utama" data-aos="fade-up" style="margin: auto; font-size: 50px; font-family: 'Pacifico', cursive;">&</div>
+                <div class="col-md-5 mb-3 delay-03s animated wow  zoomIn kartu-pasangan">
+                    <div class="card h-100 border bg-utama" data-aos="fade-left" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+                        <div class="card-body text-center">
+                            <div class="mt-4">
+                                <h4 class="text-utama m-3 in-left">Arifah Nursya'bani Khomsah,S.Pd</h4>
+                                <h5 class="text-utama mb-5" style="letter-spacing: 1px;line-height:25px; color: #8B0000;">Anak Pertama dari<br> Bapak<br> Dan Ibu</h5>
+                                <div class="medos-pasangan">
+                                     <a href="https://instagram.com/arifah.syabani" class="btn-medsos" target="_blank"><i class="fa-brands fa-instagram"></i> Arifah</a>       
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+    <section id="s3" class="s3">
+        <div class="container text-center content-1 pb-5">
+            <h5 class="judul t-kedua" data-aos="fade-down">
+                Menuju Hari H
+            </h5>
+            <div class="container">
+                <div id="countdown">
+                    <div class="row justify-content-center">
+                        <div class="col-2 m-2 p-2 bg-kedua rounded-3 bg-waktu">
+                            <span class="waktu" id="days" data-aos="fade-up"  data-aos-duration="1000" ></span><br><span style="color: #8B0000;">Hari</span>
+                        </div>
+                        <div class="col-2 m-2 p-2 bg-kedua rounded-3 bg-waktu">
+                            <span class="waktu" id="hours" data-aos="fade-up"  data-aos-duration="1000" ></span><br><span style="color: #8B0000;">Jam</span>
+                        </div>
+                        <div class="col-2 m-2 p-2 bg-kedua rounded-3 bg-waktu">
+                            <span class="waktu" id="minutes" data-aos="fade-up"  data-aos-duration="1000" ></span><br><span style="color: #8B0000;">Menit</span>
+                        </div>
+                        <div class="col-2 m-2 p-2 bg-kedua rounded-3 bg-waktu">
+                            <span class="waktu" id="seconds" data-aos="fade-up"  data-aos-duration="1000" ></span><br><span style="color: #8B0000;">Detik</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="btn mt-5" style="background-color: #FFFAF0; color: #8B0000;"  target="_blank" href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Pernikahan+Fahmi+dan+Arifah&details=%3Cp%3E%3Cstrong%3EPernikahan+Fahmi+dan+Arifah%3C/strong%3E%3C/p%3E%3Cp%3E%3Cstrong%3EMinggu,+4+Desember+2022%3C/strong%3E%3Cbr+/%3E%3Cstrong%3EPukul+10.00+-+Selesai+WIB%3C/strong%3E%3Cbr+/%3E%3Cbr+/%3EBertempat+di%3Cbr+/%3EHalaman+Pondok+Pesantren+Mabdaul'Uluum%3Cbr+/%3EKel. Mulyasari, Kec. Tamansari,+Kota. Tasikmalaya,+Jawa+Barat+46196,+Indonesia%3Cbr+/%3E(+Dekat+sdn+sanggariang+)%3C/p%3E&location=https://goo.gl/maps/7cmP2thKEipvDFU36&dates=20221204T030000Z/20221204T030000Z&ctz=Asia/Jakarta"><i class="fa fa-calendar"></i> Save The Date
+            </a>
+        </div>
+    </section>
+
+
+    <section id="s4" class="s4">
+        <div class="container text-center content-1 pb-5">
+            <h5 class="judul t-kedua" data-aos="fade-down" style="color: #8B0000;">
+                Our Special
+            </h5>
+            <h4 class="t-3 mt-0 mb-5">Insyaa Allah</h4>
+
+            <div class="row justify-content-between mt-3">
+                
+                <div class="col-md-6 mb-3">
+                    <div class="card h-100" data-aos="fade-right" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+                        <div class="card-body">
+                            <div class="m-3"></div>
+                            <span class="text-icon" style="background-color: #8B0000;">
+                                <i aria-hidden="true" class="fas fa-hands-helping"></i>
+                            </span>
+                            <div class="m-5"></div>
+                            <h4 class="t-judul">Akad Nikah</h4>
+                            
+                            <div class="row mt-3 mb-3">
+
+                                <div class="col-md-6 mb-3">
+                                    <div class="border-bottom border-3 border-utama"></div>
+                                    <span style="font-size: 5em; color: #8B0000;">
+                                        <i class="fa-solid fa-calendar-days"></i>
+                                    </span>
+                                    <div class="t-10">Ahad, 4 Desember 2022</div>
+                                    <div class="mt-3 border-bottom border-3 border-utama"></div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <div class="border-bottom border-3 border-utama"></div>
+                                    <span style="font-size: 5em; color: #8B0000;">
+                                        <i aria-hidden="true" class="far fa-clock"></i>
+                                    </span>
+                                    <div class="t-10">08.00 WIB - Selesai</div>
+                                    <div class="mt-3 border-bottom border-3 border-utama"></div>
+                                </div>
+                            </div>
+
+                            <h3 class="t-tempat">
+                                Masjid Al-Ittihad Mabdaul Ulum 
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <div class="card h-100 border" data-aos="fade-left" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+                        <div class="card-body">
+                            <div class="m-3"></div>
+                            <span class="text-icon text-animation-" style="background-color: #8B0000;">
+                                <i aria-hidden="true" class="fas fa-hands-helping"></i>
+                            </span>
+                            <div class="m-5"></div>
+                            <h4 class="t-judul">Resepsi Pernikahan</h4>
+                            
+                            <div class="row mt-3 mb-3">
+
+                                <div class="col-md-6 mb-3">
+                                    <div class="border-bottom border-3 border-utama"></div>
+                                    <span style="font-size: 5em; color: #8B0000;">
+                                        <i class="fa-solid fa-calendar-days"></i>
+                                    </span>
+                                    <div class="t-10">Ahad, 4 Desember 2022</div>
+                                    <div class="mt-3 border-bottom border-3 border-utama"></div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <div class="border-bottom border-3 border-utama"></div>
+                                    <span style="font-size: 5em; color: #8B0000;">
+                                        <i aria-hidden="true" class="far fa-clock"></i>
+                                    </span>
+                                    <div class="t-10">10.00 WIB - Selesai</div>
+                                    <div class="mt-3 border-bottom border-3 border-utama"></div>
+                                </div>
+                            </div>
+
+                            <h3 class="t-tempat">
+                                Halaman Pondok Pesantren Mabdaul 'Uluum
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 mt-3">
+                    <div class="card border-0" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+                        <div class="card-body">
+                            <iframe class="border border-5 rounded-3" data-aos="zoom-in" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d687.7661033948467!2d108.22573780287165!3d-7.374613605275035!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f5791eaaaaaab%3A0x79d7934ca91ad082!2sMasjid%20Al%20Ittihad!5e1!3m2!1sen!2sid!4v1668078506884!5m2!1sen!2sid"width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            
+                            <a href="https://goo.gl/maps/m9pNMGqqWUEdLLpH9" target="_blank" class="btn mt-2" style="background-color: #8B0000; color: white;"><i class="fa-solid fa-location-dot"></i> Lihat Maps</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <div class="container bg-kedua rounded-3">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="p-3 text-center">
+                <span class="mb-2">Doa Restu Anda merupakan karunia yang sangat berarti bagi kami.</span>
+                <form class="form-inline" id="form">
+                    <div class="form-group mb-2 mt-3">
+                        <input type="text" name="nama" id="nama" value="" class="form-control" placeholder="Masukan Nama" required="">
+                    </div>
+                    <div class="form-group mb-3">
+                        <textarea class="form-control" name="pesan" value="" id="pesan" rows="3" placeholder="Berikan Ucapan" required=""></textarea>
+                    </div>
+
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                       <button type = "button" id="addnew" class = "btn" style="background-color: #8B0000; color: white;"><i class="fa-solid fa-paper-plane"></i> Kirim Ucapan</button>
+                    </div>
+                </form>         
+                            
+            </div>
+        </div>
+        <div class="col-md-6" data-aos="fade-in">
+            <div class="p-3">
+                <div class="" data-aos="fade-left" style="height:300px; width:100%;overflow:auto;background-color:#8B0000; color: white; scrollbar-base-color:gold;">
+                    <div id="userTable"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    <style type="text/css">
+    .list-ucapan{
+        height:400px;
+        width:100%;
+        overflow:auto;
+        background-color:#8B0000;
+        color: white;
+        scrollbar-base-color:gold;
+    }
+
+
+    @media (max-width: 470px) {
+        .list-ucapan{
+            height:500px;
+            width:100%;
+            overflow:auto;
+            background-color:#8B0000;
+            color: white;
+            scrollbar-base-color:gold;
+        }
+    }
+
+</style>
+<div class="list-ucapan" data-aos="fade-left">
+<?php
+function tgl_indo()
+{
+    date_default_timezone_set('Asia/Jakarta');
+    /* script menentukan hari */
+    $array_hr= array(1=>"Senin","Selasa","Rabu","Kamis","Jumat","Sabtu","Minggu");
+    $hr = $array_hr[date('N')];
+    /* script menentukan tanggal */
+    $tgl= date('j');
+    /* script menentukan bulan */
+    $array_bln = array(1=>"Jan","Feb","Maret", "April", "Mei","Juni","Juli","Agst","Sept","Okt", "Nov","Des");
+    $bln = $array_bln[date('n')];
+    /* script menentukan tahun */
+    $thn = date('Y');
+    /* script perintah keluaran*/
+    return $tgl . " " . $bln . " " . date('H:i');
+}
+?>
+<?php include('conn.php'); if(isset($_POST['show'])){ ?>
+    <?php $quser=mysqli_query($dbConn,"select * from `ucapan` ORDER BY id DESC"); while($urow=mysqli_fetch_array($quser)){ ?>
+
+<div class="m-3 rounded-3 p-3"  data-aos="fade-right" style="background-color: #fffaf0; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
+    
+    <div class="float-end text-utama" class="fw-bold" style="font-size: 13px;"><strong><i class="fa-solid fa-clock"></i> <i> <?php echo tgl_indo($urow['date_time']); ?></i></strong></div>
+    <div class="text-utama mt-0">
+        <i class="fa fa-user fa-lg"></i> <strong><?php echo $urow['nama']; ?></strong>
+    </div>
+    <div class="border-bottom mt-2"></div>
+    <div class="text-utama" style="font-size: 13px;">
+        <?php echo $urow['pesan']; ?>
+    </div> 
+    
+</div>      
+
+<?php } } ?>
+</div>
